@@ -1,4 +1,4 @@
-# CindyJS web site
+# CindyJS web site - nd applicaton and improve visiter point of viwe
 
 This repository contains the sources from which
 [the CindyJS web site](http://cindyjs.org/) is built.
